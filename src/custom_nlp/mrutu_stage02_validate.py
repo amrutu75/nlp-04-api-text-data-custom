@@ -11,12 +11,11 @@ Purpose
 
 Analytical Questions
 
-- What is the top-level structure of the JSON data?
-- What keys are present in each record?
-- What data types are associated with each field?
-- Does the data meet expectations for transformation?
+- Which countries reported the highest COVID-19 case counts??
+- How do cases, recoveries, and deaths compare across countries?
+- Which countries have the highest case rates per million people?
 
-Edit your Python file to:
+Edited Python file to:
 - inspect the JSON structure for your API,
 - validate required keys and types,
 - confirm the data is usable for your analysis.

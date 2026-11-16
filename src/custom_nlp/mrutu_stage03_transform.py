@@ -11,11 +11,12 @@ Purpose
 
 Analytical Questions
 
-- Which fields are needed from the JSON data?
-- How can records be normalized into tabular form?
-- What derived fields would support analysis?
+- Which countries reported the highest COVID-19 case counts??
+- How do cases, recoveries, and deaths compare across countries?
+- Which countries have the highest case rates per million people?
 
-Edit your Python file to:
+
+Edited Python file to:
 - extract the fields needed for your analysis,
 - normalize records into a consistent structure,
 - create any derived fields required.
